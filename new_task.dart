@@ -13,5 +13,4 @@
 // Netice : 0
 
 
-// Tapsiriq seviyyeleri cetindir 2 ci tapsiriq birinciye nisbeten sadedir
 
