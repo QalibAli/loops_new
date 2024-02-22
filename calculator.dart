@@ -11,7 +11,6 @@ void main() {
   String operations = stdin.readLineSync()!;
   int operation = int.tryParse(operations)!;
 
-
   print("Birinci ededi daxil et:");
   String first = stdin.readLineSync()!;
   int firstNum = int.tryParse(first)!;
